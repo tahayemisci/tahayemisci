@@ -20,7 +20,7 @@ A Python desktop tool designed to optimize student distribution in schools, crea
 A comprehensive collection of control theory implementations including **System Identification (ARX/RLS)**, parameter estimation, and dynamic system modeling.
 * *Context:* Advanced implementations from ME 3021 & ME 4022 courses.
 
-#### 💧 [Hydronic System Design](./Hydronic-Heating-System-Design)
+#### 💧 [Hot-Water-Delivery-System](./Hot-Water-Delivery-System) 
 Design and optimization of a hot water delivery system for a 5-storey building, including detailed hydraulic calculations and cost analysis.
 * *Outcome:* Optimized for minimum head loss and energy efficiency (Mars MRS Pump).
 
