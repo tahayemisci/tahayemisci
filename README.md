@@ -4,18 +4,6 @@ I am a **Senior Mechanical Engineering Student** at **Marmara University** (GPA:
 
 Unlike a traditional mechanical engineer, I focus on bridging the gap between **physical systems** and **computational intelligence**. My goal is to develop autonomous systems where mechanics meet advanced control algorithms and data science.
 
----
-
-### 🛠️ Technical Toolbox
-
-| Core Engineering | Computational & Data Science | Design & Simulation |
-| :--- | :--- | :--- |
-| 🎛️ **Control Theory:** PID, System ID, State-Space | 🐍 **Python:** Pandas, NumPy, Tkinter | 📐 **CAD:** SolidWorks, AutoCAD |
-| ⚙️ **Dynamics:** Thermodynamics, Fluid Mechanics | 📊 **Data Science:** Data Analysis (Miuul Certified) | 🌪️ **CFD:** ANSYS Workbench, FVM |
-| 🔋 **Systems:** Hydronic Design, Heat Transfer | 🧮 **Math:** MATLAB, Simulink | 📝 **Office:** MS Excel (Advanced) |
-
----
-
 ### 🚀 Featured Projects
 
 #### 🌡️ [CFD Heat Transfer Solver](./CFD-Heat-Transfer-Solver-GUI)
