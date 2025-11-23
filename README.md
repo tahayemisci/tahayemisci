@@ -1,6 +1,6 @@
-### Hi there, I'm Murat Taha! 👋
+### Hi, I'm Murat Taha! 👋
 
-I am a **Senior Mechanical Engineering Student** at **Marmara University** (GPA: 3.23/4.00), driven by a passion for the **Defense Industry** and **Unmanned Systems**.
+I am a **Senior Mechanical Engineering Student** at **Marmara University** , driven by a passion for the **Defense Industry** and **Autonomous Systems**.
 
 Unlike a traditional mechanical engineer, I focus on bridging the gap between **physical systems** and **computational intelligence**. My goal is to develop autonomous systems where mechanics meet advanced control algorithms and data science.
 
